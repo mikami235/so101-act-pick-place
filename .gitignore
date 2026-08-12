@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Training outputs
+outputs/
+checkpoints/
+
+# W&B
+wandb/
+
+# Hugging Face
+.cache/
+
+# Secrets
+.env
+*.token
+credentials*
+
+# Large datasets / models
+*.mp4
+*.parquet
+*.safetensors
+*.pth
+*.pt

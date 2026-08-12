@@ -1,0 +1,19 @@
+LeRobot
+=======
+Version:
+v0.6.0
+
+Commit:
+30da8e687a6dfc617fcd94afc367ac7071c376ce
+
+Git status:
+
+Python:
+Command 'python' not found, did you mean:
+  command 'python3' from deb python3
+  command 'python' from deb python-is-python3
+
+OS:
+No LSB modules are available.
+Ubuntu 24.04.2 LTS
+

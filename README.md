@@ -350,6 +350,13 @@ More details:
 experiments/002_30ep_30k.md
 ```
 
+## Dataset Visualization
+
+Episode 29 visualized with LeRobot Dataset Visualizer.
+
+![Dataset visualization](docs/images/dataset_rerun_episode29.png)
+
+
 ## Repository Structure
 
 ```text
